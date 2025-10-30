@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "concurrently \"npm run start --prefix buy-and-sell\" \"npm run dev --prefix buy-and-sell-backend\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
