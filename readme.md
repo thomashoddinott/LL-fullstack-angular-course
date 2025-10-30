@@ -2,7 +2,7 @@ I reached the part of the tutorial with firebase, realised I was spending 80% of
 
 ### Run
 
-`cd` and `npm install` in each dir (including root directory to install `concurrently`, then run `npm start` from root
+`cd` and `npm install` in each dir (including root directory to install `concurrently`), then run `npm start` from root
 
 ### BE
 
