@@ -1,4 +1,4 @@
-I reached the part of the tutorial with firebase, realised I was spending 80% of my time fixing dependency issues (the course five years old), so bailed and decided to leave here for now.
+I reached the part of the tutorial with firebase, realised I was spending 80% of my time fixing dependency issues (the course is five years old), so bailed and decided to leave here for now.
 
 ### Run
 
